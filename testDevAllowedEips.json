@@ -16,5 +16,23 @@
     "buildVersion": "0.0.0-888",
     "semver": "0.0.0",
     "dateCreated": "2024-07-03T12:27:46Z"
+  },
+  {
+    "mrEnclave": "745f485ccd333947d65e681c2315dbf02eb44303edc2604f454e882be3fe744e",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1086",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-04T09:49:25Z"
+  },
+  {
+    "mrEnclave": "4ca95e5d0a5188eca27848298c45bbf1660a9fcac02525a9dc022ef0c730e638",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1086",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-04T09:49:28Z"
   }
 ]
