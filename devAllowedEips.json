@@ -2563,5 +2563,14 @@
     "buildVersion": "0.0.0-1129",
     "semver": "0.0.0",
     "dateCreated": "2024-07-10T05:19:26Z"
+  },
+  {
+    "mrEnclave": "446599eaeb47708df4741b5926c3bcfa673dd3daada85ab647476a5b68e8ea89",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "pr-2307",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-10T05:32:22Z"
   }
 ]
