@@ -3400,5 +3400,23 @@
     "buildVersion": "pr-2387",
     "semver": "0.0.0",
     "dateCreated": "2024-07-16T21:27:34Z"
+  },
+  {
+    "mrEnclave": "7126e9c4fce887f0cb51ac6ac5af919932363e9e4053ba492e27c160f56847e7",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1178",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-16T22:48:49Z"
+  },
+  {
+    "mrEnclave": "d1cf614da83571418efe00a5f240a652cf80b36e0298c03ab291970eab4cbc30",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1178",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-16T22:48:51Z"
   }
 ]
