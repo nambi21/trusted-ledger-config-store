@@ -4482,5 +4482,23 @@
     "semver": "0.0.0",
     "digest": "tperegistry.azurecr.io/tpe-temp/pr/athena/gsc-operator-app@sha256:7ff8250e68bc3c44e898b1625b780e58f76960fca3d3ff2b947c5ee54fde18fb",
     "dateCreated": "2024-07-19T17:15:07Z"
+  },
+  {
+    "mrEnclave": "7e3316eaaf272d546d267202cfa9c6b3e48e843ddb0c3ae2b414668de57d9c88",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1189",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-19T17:52:22Z"
+  },
+  {
+    "mrEnclave": "c118c33ccd51208e751f67a157725726d55eef4a9fd1d87e4d8897c90c5fd789",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1189",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-19T17:52:23Z"
   }
 ]
