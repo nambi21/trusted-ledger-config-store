@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "mrEnclave": "60e623a7896d37a7e52e4bd562ebafdb50610a74be796f5fb348c09ca90c317d",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "1000.0.1-843",
+    "semver": "1000.0.1",
+    "digest": "sha256:ab1f2ae4e1c26cf80e69ad9437fee2fa17872dd95ad9c2b2fbf83c23d8930a28",
+    "dateCreated": "2024-08-28T00:12:30Z"
+  }
+]
