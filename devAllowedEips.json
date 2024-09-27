@@ -14068,5 +14068,25 @@
     "semver": "0.0.0",
     "digest": "sha256:1385fe6309c972faea1b20aed556d02ec12e9e549720dd6fafc883d5bcbb56ad",
     "dateCreated": "2024-09-26T23:36:38Z"
+  },
+  {
+    "mrEnclave": "200dc9dda4c27a169c4a8ba9eba76f393df402aaa1ca0f0abd010103069cbcbc",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "1.0.1-1576",
+    "semver": "1.0.1",
+    "digest": "sha256:0e2233bd2cab5f4318d0827d8944d514e57aec292e9468898d1255b7c8ed81a4",
+    "dateCreated": "2024-09-27T00:17:38Z"
+  },
+  {
+    "mrEnclave": "181805e23487eaa1d00528292aebc915ff0069b1974362a9d57d9001b99b2c4f",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "1.0.1-1576",
+    "semver": "1.0.1",
+    "digest": "sha256:e9dd868f0220d6ab863b782522b332f0bfa94e0187b972639aefb2e418948dff",
+    "dateCreated": "2024-09-27T00:17:40Z"
   }
 ]
