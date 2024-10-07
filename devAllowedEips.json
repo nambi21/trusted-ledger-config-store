@@ -10908,5 +10908,15 @@
     "semver": "0.0.0",
     "digest": "sha256:7a08d9981fe93dbdd1c9460221c6a52562f68b7fa70315d70533bf3c70fa7427",
     "dateCreated": "2024-10-07T17:48:09Z"
+  },
+  {
+    "mrEnclave": "8082fe966765572e5d603485ee988129fa8b404532ab066e7f1eba4212f2d51e",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "pr-3229",
+    "semver": "0.0.0",
+    "digest": "sha256:af85eec6e5e3409f94447e11236005cc4c5d9a1db49be8d99ff5e875b229990b",
+    "dateCreated": "2024-10-07T17:56:07Z"
   }
 ]
