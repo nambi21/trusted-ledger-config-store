@@ -3700,6 +3700,16 @@
     "dateCreated": "2024-12-11T13:22:35Z"
   },
   {
+    "mrEnclave": "0cf49b02efbbe5b6cad610214aa9e9f6d2e7e9465c3a81fcbfc2b59057c9be17",
+    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-1740",
+    "semver": "0.0.0",
+    "digest": "sha256:0191dac511c06f92367cfef05ac25c5a12c59c61adbccc3adc0ceb370cdea3cb",
+    "dateCreated": "2024-12-11T13:22:35Z"
+  },
+  {
     "mrEnclave": "e1a7660997ac5af398addce79d9f70facd90880d3a1bbecc22c059c87347a08e",
     "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
     "isvProdId": "0",
