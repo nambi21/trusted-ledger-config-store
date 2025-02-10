@@ -1610,26 +1610,6 @@
     "dateCreated": "2025-01-30T13:11:18Z"
   },
   {
-    "mrEnclave": "8bd80930aad1dfd97066903c09e79866903945c8bc3b5130dc2f81157ce9988c",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "pr-17883",
-    "semver": "0.0.0",
-    "digest": "sha256:811c6f193a8a8341bf7e13604081ae6b82da4477bd234a5dccfdd319c0ad8675",
-    "dateCreated": "2025-01-31T22:48:46Z"
-  },
-  {
-    "mrEnclave": "2a911429c1f72ccaa64a58915de77631616ec76aec01af6415eac903cd4877fa",
-    "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
-    "isvProdId": "1",
-    "isvSvn": "0",
-    "buildVersion": "pr-17883",
-    "semver": "0.0.0",
-    "digest": "sha256:09bb92442a133f60777a0f36008a96f49593e365665350d85b072a9f26afc699",
-    "dateCreated": "2025-01-31T22:48:48Z"
-  },
-  {
     "mrEnclave": "2c26c9d2bb4327e77b5c2f4be550d50b9e2b669bf5df8a951379978722f4a444",
     "mrSigner": "1ed3308e855b2a4fd23ccca98bc000363ff53496e093739fab7c9a7e058b8b3e",
     "isvProdId": "1",
